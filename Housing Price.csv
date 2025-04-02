@@ -1,0 +1,25 @@
+City,Year,House price
+Los Angeles,2015,533000
+Los Angeles,2016,565000
+Los Angeles,2017,605000
+Los Angeles,2018,643000
+Los Angeles,2019,683000
+Los Angeles,2020,773000
+Sacramento,2015,290000
+Sacramento,2016,305000
+Sacramento,2017,328000
+Sacramento,2018,355000
+Sacramento,2019,280000
+Sacramento,2020,435000
+San Diego,2015,520000
+San Diego,2016,550000
+San Diego,2017,580000
+San Diego,2018,615000
+San Diego,2019,645000
+San Diego,2020,705000
+San Francisco,2015,1160000
+San Francisco,2016,1200000
+San Francisco,2017,1290000
+San Francisco,2018,1350000
+San Francisco,2019,1400000
+San Francisco,2020,1500000
